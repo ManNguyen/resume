@@ -1,0 +1,170 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "skills": "Computer Skills",
+    "projects": "Personal Projects",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "email": "man.ngn.io@gmail.com",
+    "name": "Man Nguyen",
+    "phone": "0393786120",
+    "location": {
+      "address": "Ho Chi Minh City, Vietnam/New Haven, CT"
+    },
+    "website": "MNguyenLinked.in"
+  },
+  "education": [
+    {
+      "institution": "University of Connecticut",
+      "location": "Storrs, CT",
+      "area": "Computer Science and Engineering",
+      "studyType": "BS",
+      "endDate": "Spring 2015",
+      "gpa": "",
+      "startDate": "Fall 2012"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Successfully led the development of the Flexible Spend Limit feature, taking ownership of the project scope, providing innovative solutions, and ensuring timely delivery",
+        "Acted as the main point of contact for the engineering team, addressing requirements changes, advocating for the team's concerns, and effectively managing engineering tasks",
+        "Collaborated with cross-functional teams to achieve key metrics for the Transport/Express spend limit policy release and enhance data analytics capabilities",
+        "Proactively resolved critical issues, unblocking engineer team deployments across multiple Tech Families, and minimizing downtime",
+        "Implemented a system-wide configuration switch, improving service reliability, decoupling from obsolete systems, and enhancing overall efficiency",
+        "Introduced an efficient sprint planning and grooming methodology, fostering better communication and elegant solutions",
+        "Contributed to bug fixes and feature releases, improving user experience, resolving long-standing issues, and enhancing system stability"
+      ],
+      "company": "Grab",
+      "position": "Software Engineer",
+      "location": "Ho Chi Minh City, Vietnam",
+      "startDate": "December 2021",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Developed and maintained an API Service using Node.js, Express.js, TypeORM"
+      ],
+      "company": "FPT Software",
+      "position": "Senior Software Engineer",
+      "location": "Ho Chi Minh City, Vietnam",
+      "startDate": "June 2021",
+      "endDate": "December 2021"
+    },
+    {
+      "highlights": [
+        "Developed a Business Intelligence Portal using ASP.NET MVC, Knockout.js, Highchart.js",
+        "Perform maintenance and troubleshooting of a continuous build/deployment system",
+        "Worked closely with clients' developing teams to implement new features in their business application. This included: adding new components in Frontend using Angular, adding new services in .NET API backend, and modifying data models in MSSQL Server databases ",
+        "Leveraged technical acumen to communicate effectively with client executives and their respective teams to provide solution for business requirement",
+        "Performed requirements gathering and  analysis, estimated time required for projects completion",
+        "Write API Documentation for an API service",
+        "Created high-level architecture design and detail designs for required features "
+      ],
+      "company": "Silicon Stack",
+      "position": "Full Stack Developer",
+      "location": "Ho Chi Minh City, Vietnam",
+      "startDate": "February 2020",
+      "endDate": "May 2021"
+    },
+    {
+      "highlights": [
+        "Developed a Computer Vision Web Application to let user identify and capture Town Fair Tire Invoice document in real time on iOS devices",
+        "Developed and maintained company Point of Sale web application that handle wholesale transactions for 95 stores in 17 regions using ASP.Net,  C#, T-SQL and JavaScript.",
+        "Created background services to update stores inventory look up in real time using C# and C.",
+        "Created and updated company's web based  CRM and  Invoice lookup applications.",
+        "Maintained and updated company's  WCF services and restful API.",
+        "Performed ETL processes to update company's business databases.",
+        "Collaborated with data scientists to implement solutions for company business."
+      ],
+      "company": "Town Fair Tire",
+      "position": "Software Engineer",
+      "location": "East Haven, CT, USA",
+      "startDate": "April 2018",
+      "endDate": "October 2019"
+    },
+    {
+      "location": "New Canaan, CT, USA",
+      "position": "Web Application Developer",
+      "website": "",
+      "endDate": "March 2018",
+      "highlights": [
+        "Developed a web application that organize and present comprehensive market profile reports using AngularJS and ASP.NET Web API.",
+        "Improved and maintained business windows form application. Added new functionalities and constructed new store procedures.",
+        "Developed a map drawing application in C# using a third party Geographic Information System API. ",
+        "Developed an ETL application  that validate and import excel files."
+      ],
+      "company": "Media Framework LLC",
+      "startDate": "January 2015"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C#",
+        "Javascript",
+        "Golang",
+        "Python",
+        "T-SQL",
+        "HTML5/ CSS3"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "ASP.NET",
+        "JQuery",
+        "Angular",
+        "Bootstrap",
+        "Node.js",
+        "Vue",
+        "Express.js",
+        "TypeORM"
+      ],
+      "name": "Web Technologies"
+    },
+    {
+      "keywords": ["Microsoft SQL Server", "MySql", "PostgreSQL"],
+      "name": "Databases Platforms"
+    },
+    {
+      "keywords": ["Windows", "Linux", "MacOS"],
+      "name": "Computer Platforms"
+    },
+    {
+      "keywords": ["AWS", "Git", "RabbitMQ"],
+      "name": "Tools"
+    },
+    {
+      "keywords": ["Agile", "Scrum", "Kanban"],
+      "name": "Process"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
