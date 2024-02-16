@@ -13,8 +13,7 @@
     "phone": "0393786120",
     "location": {
       "address": "Ho Chi Minh City, Vietnam/New Haven, CT"
-    },
-    "website": "MNguyenLinked.in"
+    }
   },
   "education": [
     {
@@ -30,6 +29,7 @@
   "work": [
     {
       "highlights": [
+        "Spearheaded the initiative to automate customer support on the Grab for Business web admin portal using LLMs, designing the specifications, directly contributing to prompt engineering, and ultimately delivering an MVP",
         "Successfully led the development of the Flexible Spend Limit feature, taking ownership of the project scope, providing innovative solutions, and ensuring timely delivery",
         "Acted as the main point of contact for the engineering team, addressing requirements changes, advocating for the team's concerns, and effectively managing engineering tasks",
         "Collaborated with cross-functional teams to achieve key metrics for the Transport/Express spend limit policy release and enhance data analytics capabilities",
@@ -115,20 +115,6 @@
       "name": "Programming Languages"
     },
     {
-      "level": "",
-      "keywords": [
-        "ASP.NET",
-        "JQuery",
-        "Angular",
-        "Bootstrap",
-        "Node.js",
-        "Vue",
-        "Express.js",
-        "TypeORM"
-      ],
-      "name": "Web Technologies"
-    },
-    {
       "keywords": ["Microsoft SQL Server", "MySql", "PostgreSQL"],
       "name": "Databases Platforms"
     },
@@ -137,7 +123,7 @@
       "name": "Computer Platforms"
     },
     {
-      "keywords": ["AWS", "Git", "RabbitMQ"],
+      "keywords": ["AWS", "Git", "RabbitMQ", "Datadog", "Elastic Log"],
       "name": "Tools"
     },
     {
