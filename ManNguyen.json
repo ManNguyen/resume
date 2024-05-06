@@ -29,6 +29,8 @@
   "work": [
     {
       "highlights": [
+        "Successfully led the migration of a critical service from EC2 to AWS EKS, ensuring seamless transition and improved scalability and reliability",
+        "Implemented post-migration performance tuning and optimization measures to maximize service efficiency and cost-effectiveness on the AWS EKS platform",
         "Spearheaded the initiative to automate customer support on the Grab for Business web admin portal using LLMs, designing the specifications, directly contributing to prompt engineering, and ultimately delivering an MVP",
         "Successfully led the development of the Flexible Spend Limit feature, taking ownership of the project scope, providing innovative solutions, and ensuring timely delivery",
         "Acted as the main point of contact for the engineering team, addressing requirements changes, advocating for the team's concerns, and effectively managing engineering tasks",
